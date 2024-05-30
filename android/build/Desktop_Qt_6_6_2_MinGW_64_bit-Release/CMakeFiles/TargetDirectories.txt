@@ -1,9 +1,0 @@
-D:/Programming/Arduino/RailWay/android/build/Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/RailWay_ControlPanel.dir
-D:/Programming/Arduino/RailWay/android/build/Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
-D:/Programming/Arduino/RailWay/android/build/Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
-D:/Programming/Arduino/RailWay/android/build/Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
-D:/Programming/Arduino/RailWay/android/build/Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/install.dir
-D:/Programming/Arduino/RailWay/android/build/Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/install/local.dir
-D:/Programming/Arduino/RailWay/android/build/Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
-D:/Programming/Arduino/RailWay/android/build/Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/RailWay_ControlPanel_autogen_timestamp_deps.dir
-D:/Programming/Arduino/RailWay/android/build/Desktop_Qt_6_6_2_MinGW_64_bit-Release/CMakeFiles/RailWay_ControlPanel_autogen.dir
