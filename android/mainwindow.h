@@ -69,6 +69,7 @@ public slots:
 
 private slots:
     void connectionTimerSlot();
+    void uiTimerSlot();
 
     void on_pushButtonCtrl_clicked();
 
@@ -109,6 +110,10 @@ private slots:
 private:
     Ui::MainWindow *ui;
 
+    bool l_btn_active = false;
+    bool r_btn_active = false;
+    bool barrier_btn_active = false;
+
     void setStyle();
 
     QTimer *pingTimer;
@@ -117,6 +122,13 @@ private:
     bool ping = false;
 
     void startPingTimer();
+
+    QTimer *uiTimer;
+    int uiTimerMs = 1000;
+
+    void startUiTimer();
+    void uiAnimation();
+    int states;
 
     QTcpSocket* socket = nullptr;
     QByteArray data;

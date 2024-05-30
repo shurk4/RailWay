@@ -22,6 +22,7 @@ MainWindow::MainWindow(QWidget *parent)
         connectToHost();
     }
 
+    startUiTimer();
     startPingTimer();
 }
 
@@ -33,6 +34,76 @@ void MainWindow::startPingTimer()
     pingTimer->start(pingTimerMs);
 }
 
+void MainWindow::startUiTimer()
+{
+    uiTimer = new QTimer(this);
+    connect(uiTimer, &QTimer::timeout, this, &MainWindow::uiTimerSlot);
+    uiTimer->start(uiTimerMs);
+}
+
+void MainWindow::uiAnimation()
+{
+    if(ui->pushButtonLeft->isChecked())
+    {
+        if(l_btn_active)
+        {
+            ui->pushButtonLeft->setStyleSheet("QPushButton{background-image: url(\"://source/btn_l_on1.png\");background-repeat: no-repeat;}");
+        }
+        else
+        {
+            ui->pushButtonLeft->setStyleSheet("QPushButton{background-image: url(\"://source/btn_l_on2.png\");background-repeat: no-repeat;}");
+        }
+    }
+    else
+    {
+        ui->pushButtonLeft->setStyleSheet("QPushButton{background-image: url(\"://source/btn_l_off.png\");background-repeat: no-repeat;}");
+    }
+
+    if(ui->pushButtonRight->isChecked())
+    {
+        if(l_btn_active)
+        {
+            ui->pushButtonRight->setStyleSheet("QPushButton{background-image: url(\"://source/btn_r_on1.png\");background-repeat: no-repeat;}");
+        }
+        else
+        {
+            ui->pushButtonRight->setStyleSheet("QPushButton{background-image: url(\"://source/btn_r_on2.png\");background-repeat: no-repeat;}");
+        }
+    }
+    else
+    {
+        ui->pushButtonRight->setStyleSheet("QPushButton{background-image: url(\"://source/btn_r_off.png\");background-repeat: no-repeat;}");
+    }
+
+    if(ui->pushButtonBarrier->isChecked())
+    {
+        if(barrier_btn_active)
+        {
+            ui->pushButtonBarrier->setStyleSheet("QPushButton{background-image: url(\":/source/barrier_open1.png\");background-repeat: no-repeat;}");
+        }
+        else
+        {
+            ui->pushButtonBarrier->setStyleSheet("QPushButton{background-image: url(\":/source/barrier_open2.png\");background-repeat: no-repeat;}");
+        }
+    }
+    else
+    {
+        if(barrier_btn_active)
+        {
+            ui->pushButtonBarrier->setStyleSheet("QPushButton{background-image: url(\":/source/barrier_closed.png\");background-repeat: no-repeat;}");
+        }
+        else
+        {
+            ui->pushButtonBarrier->setStyleSheet("QPushButton{background-image: url(\":/source/barrier_closed2.png\");background-repeat: no-repeat;}");
+        }
+    }
+
+
+    l_btn_active = !l_btn_active;
+    r_btn_active = !r_btn_active;
+    barrier_btn_active = !barrier_btn_active;
+}
+
 void MainWindow::connectionTimerSlot() {
     message("Ping timer");
     if (!isConnected) {
@@ -41,6 +112,15 @@ void MainWindow::connectionTimerSlot() {
     else
     {
         sendCommand("&8");
+    }
+}
+
+void MainWindow::uiTimerSlot()
+{
+    if(isConnected)
+    {
+        uiAnimation();
+        return;
     }
 }
 
@@ -125,7 +205,7 @@ void MainWindow::socketReady() {
 
 void MainWindow::showWorldStatus(QString &data) {
 
-    int states = data.toInt();
+    states = data.toInt();
 
     ui->textBrowser->append("Status int = " + QString::number(states));
 
