@@ -337,12 +337,10 @@ void MainWindow::sendCommand(QString command) {
 }
 
 void MainWindow::on_pushButtonRoundArrow_clicked() {
-    ui->labelBtns->setText("<>");
     sendCommand("&12");
 }
 
 void MainWindow::on_pushButtonDepoArrow_clicked() {
-    ui->labelBtns->setText(">");
     sendCommand("&11");
 }
 
@@ -354,12 +352,10 @@ void MainWindow::on_lineEditPort_textChanged(const QString &arg1) {
 }
 
 void MainWindow::on_pushButtonBarrier_clicked() {
-    ui->labelBtns->setText("/");
     sendCommand("&10");
 }
 
 void MainWindow::on_pushButtonOutLightStreet_clicked() {
-    // ui->labelBtns->setText("Street light on/off");
     sendCommand("&20");
 }
 

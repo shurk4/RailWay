@@ -14,7 +14,7 @@
    <string>MainWindow</string>
   </property>
   <property name="windowIcon">
-   <iconset>
+   <iconset resource="res.qrc">
     <normaloff>:/source/train.png</normaloff>:/source/train.png</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
@@ -483,28 +483,6 @@
           </property>
          </widget>
         </item>
-        <item row="2" column="4">
-         <widget class="QLabel" name="labelBtns">
-          <property name="sizePolicy">
-           <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
-            <horstretch>0</horstretch>
-            <verstretch>0</verstretch>
-           </sizepolicy>
-          </property>
-          <property name="maximumSize">
-           <size>
-            <width>80</width>
-            <height>80</height>
-           </size>
-          </property>
-          <property name="text">
-           <string/>
-          </property>
-          <property name="alignment">
-           <set>Qt::AlignCenter</set>
-          </property>
-         </widget>
-        </item>
         <item row="3" column="3">
          <widget class="QPushButton" name="pushButtonCenter">
           <property name="sizePolicy">
@@ -768,6 +746,8 @@ border-radius: 17px;}</string>
    </layout>
   </widget>
  </widget>
- <resources/>
+ <resources>
+  <include location="res.qrc"/>
+ </resources>
  <connections/>
 </ui>
