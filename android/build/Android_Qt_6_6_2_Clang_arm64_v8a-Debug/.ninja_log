@@ -1,0 +1,24 @@
+# ninja log v5
+2	747	7367193548013129	RailWay_ControlPanel_autogen/timestamp	cc3c543b0fc1ff77
+748	2509	7367193566380236	CMakeFiles/RailWay_ControlPanel.dir/RailWay_ControlPanel_autogen/mocs_compilation.cpp.o	2f3e26fd3f110661
+2	747	7367193548013129	RailWay_ControlPanel_autogen/mocs_compilation.cpp	cc3c543b0fc1ff77
+2	747	7367193548013129	D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Debug/RailWay_ControlPanel_autogen/timestamp	cc3c543b0fc1ff77
+2989	3080	7367193572036825	libRailWay_ControlPanel_arm64-v8a.so	a497df5f80af52f9
+2	747	7367193548013129	D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Debug/RailWay_ControlPanel_autogen/mocs_compilation.cpp	cc3c543b0fc1ff77
+752	2685	7367193568130228	CMakeFiles/RailWay_ControlPanel.dir/main.cpp.o	e8264fd708d4e69c
+756	2989	7367193571150233	CMakeFiles/RailWay_ControlPanel.dir/mainwindow.cpp.o	e6b1bbeb9411a6ce
+5	33	0	CMakeFiles/RailWay_ControlPanel_prepare_apk_dir	aa4e781a15d3687
+5	33	0	D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Debug/CMakeFiles/RailWay_ControlPanel_prepare_apk_dir	aa4e781a15d3687
+19	480	7383622258385259	RailWay_ControlPanel_autogen/timestamp	cc3c543b0fc1ff77
+19	480	7383622258385259	RailWay_ControlPanel_autogen/mocs_compilation.cpp	cc3c543b0fc1ff77
+19	480	7383622258385259	D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Debug/RailWay_ControlPanel_autogen/timestamp	cc3c543b0fc1ff77
+19	480	7383622258385259	D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Debug/RailWay_ControlPanel_autogen/mocs_compilation.cpp	cc3c543b0fc1ff77
+480	529	7383622259353087	RailWay_ControlPanel_autogen/EWIEGA46WW/qrc_res.cpp	36f8d60affc81a3a
+480	529	7383622259353087	D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Debug/RailWay_ControlPanel_autogen/EWIEGA46WW/qrc_res.cpp	36f8d60affc81a3a
+538	628	7383622260355971	CMakeFiles/RailWay_ControlPanel.dir/RailWay_ControlPanel_autogen/EWIEGA46WW/qrc_res.cpp.o	7e52ccf1d6e806bd
+529	2027	7383622274287686	CMakeFiles/RailWay_ControlPanel.dir/RailWay_ControlPanel_autogen/mocs_compilation.cpp.o	2f3e26fd3f110661
+532	2155	7383622275572991	CMakeFiles/RailWay_ControlPanel.dir/main.cpp.o	e8264fd708d4e69c
+534	2527	7383622279262163	CMakeFiles/RailWay_ControlPanel.dir/mainwindow.cpp.o	e6b1bbeb9411a6ce
+2527	2637	7383622280318120	libRailWay_ControlPanel_arm64-v8a.so	6186fe5f86797774
+2637	2681	0	CMakeFiles/RailWay_ControlPanel_prepare_apk_dir	aa4e781a15d3687
+2637	2681	0	D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Debug/CMakeFiles/RailWay_ControlPanel_prepare_apk_dir	aa4e781a15d3687

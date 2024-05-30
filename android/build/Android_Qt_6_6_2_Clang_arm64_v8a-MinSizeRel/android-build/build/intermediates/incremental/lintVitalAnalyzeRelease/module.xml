@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="D:\Programming\Arduino\RailWay\android\build\Android_Qt_6_6_2_Clang_arm64_v8a-MinSizeRel\android-build"
+    name=":"
+    type="APP"
+    maven=":android-build:"
+    gradle="7.4.1"
+    buildFolder="build"
+    bootClassPath="C:\SDK\platforms\android-34\android.jar;C:\SDK\build-tools\34.0.0-rc3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

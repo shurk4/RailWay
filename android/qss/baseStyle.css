@@ -1,0 +1,198 @@
+#pageCtrl QPushButton
+{
+    border: none;
+}
+
+#pushButtonUp
+{
+    background-image: url(":/source/btn_up.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonUp:pressed
+{
+    background-image: url(":/source/btn_up_act.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonLeft
+{
+    background-image: url("://source/btn_l_off.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonLeft:pressed
+{
+    background-image: url(":/source/btn_l_pres.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonLeft:checked
+{
+    background-image: url(":/source/btn_l_on1.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonCenter
+{
+    background-image: url("://source/btn_stop.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonCenter:pressed
+{
+    background-image: url(":/source/btn_stop_pres.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonCenter:checked
+{
+    background-image: url(":/source/btn_stop_act.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonRight
+{
+    background-image: url("://source/btn_r_off.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonRight:pressed
+{
+    background-image: url(":/source/btn_r_pres.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonRight:checked
+{
+    background-image: url(":/source/btn_r_on1.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonOutLightStreet
+{
+    background-image: url("://source/street.png");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+#pushButtonOutLightStreet:pressed
+{
+    background-image: url("://source/street_pres.png");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+#pushButtonOutLightStreet:checked
+{
+    background-image: url("://source/street_on.png");
+    background-repeat: no-repeat;
+    background-position: bottom left;
+}
+
+#pushButtonDown
+{
+    background-image: url("://source/btn_down.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonDown:pressed
+{
+    background-image: url("://source/btn_down_act.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonOutLightHouses
+{
+    background-image: url("://source/btn_house.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+#pushButtonOutLightHouses:pressed
+{
+    background-image: url("://source/btn_house_pres.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+#pushButtonOutLightHouses:checked
+{
+    background-image: url("://source/btn_house_on.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+#pushButtonRoundArrow
+{
+    background-image: url("://source/arrow_l_big.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonRoundArrow:pressed
+{
+    background-image: url("://source/arrow_l_big_pres.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonRoundArrow:checked
+{
+    background-image: url("://source/arrow_l_small.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonRoundArrow:checked, #pushButtonRoundArrow:pressed
+{
+    background-image: url("://source/arrow_l_small_pres.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonDepoArrow
+{
+    background-image: url("://source/arrow_r.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonDepoArrow:pressed
+{
+    background-image: url("://source/arrow_r_pres.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonDepoArrow:checked
+{
+    background-image: url("://source/arrow_r_depo.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonDepoArrow:checked, #pushButtonDepoArrow:pressed
+{
+    background-image: url("://source/arrow_r_depo_pres.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonBarrier
+{
+    background-image: url("://source/barrier_closed.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonBarrier:pressed
+{
+    background-image: url("://source/barrier_closed_pres.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonBarrier:checked
+{
+    background-image: url("://source/barrier_open1.png");
+    background-repeat: no-repeat;
+}
+
+#pushButtonBarrier:checked, #pushButtonBarrier:pressed
+{
+    background-image: url("://source/barrier_open1_pres.png");
+    background-repeat: no-repeat;
+}
+
+

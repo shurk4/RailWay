@@ -1,0 +1,17 @@
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/apk.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/aab.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/RailWay_ControlPanel.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/_qt_internal_apk_dependencies.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/apk_all.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/qt_internal_plugins.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/RailWay_ControlPanel_prepare_apk_dir.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/RailWay_ControlPanel_make_apk.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/RailWay_ControlPanel_make_aab.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/edit_cache.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/rebuild_cache.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/list_install_components.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/install.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/install/local.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/install/strip.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/RailWay_ControlPanel_autogen_timestamp_deps.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_x86-Debug/CMakeFiles/RailWay_ControlPanel_autogen.dir

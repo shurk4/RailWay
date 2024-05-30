@@ -1,0 +1,4 @@
+#Sat May 25 20:40:57 MSK 2024
+base.0=D\:\\Programming\\Arduino\\RailWay\\android\\build\\Android_Qt_6_6_2_Clang_arm64_v8a-MinSizeRel\\android-build\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

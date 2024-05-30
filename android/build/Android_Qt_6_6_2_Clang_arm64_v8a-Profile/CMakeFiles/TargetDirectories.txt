@@ -1,0 +1,17 @@
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/apk.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/aab.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/RailWay_ControlPanel.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/_qt_internal_apk_dependencies.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/apk_all.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/qt_internal_plugins.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/RailWay_ControlPanel_prepare_apk_dir.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/RailWay_ControlPanel_make_apk.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/RailWay_ControlPanel_make_aab.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/edit_cache.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/rebuild_cache.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/list_install_components.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/install.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/install/local.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/install/strip.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/RailWay_ControlPanel_autogen_timestamp_deps.dir
+D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-Profile/CMakeFiles/RailWay_ControlPanel_autogen.dir

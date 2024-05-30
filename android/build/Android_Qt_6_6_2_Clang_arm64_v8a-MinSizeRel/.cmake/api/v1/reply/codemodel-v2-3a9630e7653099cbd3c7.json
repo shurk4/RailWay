@@ -1,0 +1,151 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-MinSizeRel-d5e02be1e7e73fdf1136.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RailWay_ControlPanel",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RailWay_ControlPanel::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RailWay_ControlPanel-MinSizeRel-eeeb47fcc0b2c6a67139.json",
+					"name" : "RailWay_ControlPanel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RailWay_ControlPanel_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RailWay_ControlPanel_autogen-MinSizeRel-55690c5685eeb2460e56.json",
+					"name" : "RailWay_ControlPanel_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RailWay_ControlPanel_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RailWay_ControlPanel_autogen_timestamp_deps-MinSizeRel-f8ddd37f20e7dcf75266.json",
+					"name" : "RailWay_ControlPanel_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RailWay_ControlPanel_make_aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RailWay_ControlPanel_make_aab-MinSizeRel-d0e6b48eef1496b595eb.json",
+					"name" : "RailWay_ControlPanel_make_aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RailWay_ControlPanel_make_apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RailWay_ControlPanel_make_apk-MinSizeRel-f2edeaac3161ba558938.json",
+					"name" : "RailWay_ControlPanel_make_apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RailWay_ControlPanel_prepare_apk_dir::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RailWay_ControlPanel_prepare_apk_dir-MinSizeRel-f449facc2b984fe8de0b.json",
+					"name" : "RailWay_ControlPanel_prepare_apk_dir",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_qt_internal_apk_dependencies::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_qt_internal_apk_dependencies-MinSizeRel-bf0e395c32bd8fbe2215.json",
+					"name" : "_qt_internal_apk_dependencies",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aab::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aab-MinSizeRel-4f88e0a2f5655d7abb9e.json",
+					"name" : "aab",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk-MinSizeRel-05d32341085eabea78af.json",
+					"name" : "apk",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "apk_all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-apk_all-MinSizeRel-eb93e92f5769967d10fe.json",
+					"name" : "apk_all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt_internal_plugins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt_internal_plugins-MinSizeRel-ec39f7c523207f529269.json",
+					"name" : "qt_internal_plugins",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Programming/Arduino/RailWay/android/build/Android_Qt_6_6_2_Clang_arm64_v8a-MinSizeRel",
+		"source" : "D:/Programming/Arduino/RailWay/android"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
